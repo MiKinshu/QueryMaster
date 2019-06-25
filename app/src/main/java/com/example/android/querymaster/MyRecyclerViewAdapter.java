@@ -44,7 +44,7 @@ import java.util.ArrayList;
 
     public void setOnItemClickListener(MyClickListener myClickListener) {
         this.myClickListener = myClickListener;
-    }
+    }//git master
 
     public MyRecyclerViewAdapter(ArrayList<QueryObject> myDataset) {
         queryObjectArrayList = myDataset;
